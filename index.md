@@ -27,7 +27,7 @@ The focus areas for this workshop include, but are not limited to:
   - Compressive/compressed sensing methods
   - Tensor decomposition methods
   - Data deduplication methods
-  - Domain-specific methods, such as structured and unstructured meshes, particles, tensors
+  - Domain-specific methods, such as structured/unstructured meshes, particles, tensors
   - Accuracy-guarantee data reduction methods
   - Optimal design of data reduction methods
 - Metrics and infrastructures to evaluate reduction methods and assess fidelity of reduced data
