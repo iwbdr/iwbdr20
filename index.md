@@ -17,7 +17,7 @@ The goal of this workshop is to provide a focused venue for researchers in all a
 
 # Submissions
 
-## Topics of Interest
+### Topics of Interest
 
 The focus areas for this workshop include, but are not limited to:
 
@@ -40,11 +40,11 @@ The focus areas for this workshop include, but are not limited to:
 - Runtime systems and supports for data reduction
 - Data reduction challenges and solutions in observational and experimental environments
 
-## Proceedings
+### Proceedings
 
 All papers accepted for this workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press, made available at the IEEE BigData Conference.
 
-## Submission Instructions
+### Submission Instructions
 
 * Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication.
 * Submissions must be in PDF format.
@@ -57,7 +57,7 @@ All papers accepted for this workshop will be included in the Workshop Proceedin
 * Please submit your paper via the submission system.
 * Submission link: [Cyberchair submissions website](https://wi-lab.com/cyberchair/2020/bigdata20/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2020/bigdata20/scripts/ws_submit.php).
 
-## Important Dates
+### Important Dates
 
 * Paper Submission: October 9th, 2020
 * Paper Acceptance Notification: November 6th, 2020
@@ -67,16 +67,16 @@ All papers accepted for this workshop will be included in the Workshop Proceedin
 
 # Organizers
 
-## Program Chairs
+### Program Chairs
 
 * Dingwen Tao, _Washington State University_
 * Sheng Di, _Argonne National Laboratory_
 
-## Web Chair
+### Web Chair
 
 Jiannan Tian, _Washington State University_
 
-## Planning Program Committee
+### Planning Program Committee
 
 * Allison Baker, _National Center for Atmospheric Research_
 * Mehmet Belviranli, _Colorado School of Mines_
