@@ -14,6 +14,7 @@ There are at least three significant research topics that the community is striv
 
 The goal of this workshop is to provide a focused venue for researchers in all aspects of data reduction in all related communities to present their research results, exchange ideas, identify new research directions, and foster new collaborations within the community.
 
+<em>Please note this year’s IEEE BigData conference and IWBDR workshop will be held **virtually**. Proceedings of the workshop will be published as planned. We will provide more details about how to attend this workshop virtually soon.</em>
 
 # Submissions
 
