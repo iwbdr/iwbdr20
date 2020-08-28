@@ -43,7 +43,7 @@ The focus areas for this workshop include, but are not limited to:
 
 ### Proceedings
 
-All papers accepted for this workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press, made available at the IEEE BigData Conference.
+All papers accepted for this workshop will be published in the Workshop Proceedings of IEEE Big Data Conference, made avaiable in the IEEE eXplore digital library.
 
 ### Submission Instructions
 
@@ -59,11 +59,10 @@ All papers accepted for this workshop will be included in the Workshop Proceedin
 
 ### Important Dates
 
-* Paper Submission: October 9th, 2020
-* Paper Acceptance Notification: November 6th, 2020
-* Camera-ready Deadline: November 16th, 2020
-* Workshop: December 10th, 2020
-
+* Paper Submission: October 23, 2020
+* Paper Acceptance Notification: November 9, 2020
+* Camera-ready Deadline: November 20, 2020
+* Workshop: December 10, 2020
 
 # Organizers
 
