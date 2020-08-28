@@ -43,7 +43,7 @@ The focus areas for this workshop include, but are not limited to:
 
 ### Proceedings
 
-All papers accepted for this workshop will be published in the Workshop Proceedings of IEEE Big Data Conference, made avaiable in the IEEE eXplore digital library.
+All papers accepted for this workshop will be published in the Workshop Proceedings of IEEE Big Data Conference, made available in the IEEE eXplore digital library.
 
 ### Submission Instructions
 
