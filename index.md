@@ -49,7 +49,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 * Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication.
 * Submissions must be in PDF format.
-* Submissions are required to be within **4 pages** (short paper) or **8 pages** (full paper).
+* Submissions are required to be within **4 pages** for short paper or **8 pages** for full paper (including references).
 * Submissions must be single-spaced, 2-column pages in IEEE Xplore format.
 * Submissions are NOT double-blind.
 * Only web-based submissions are allowed.
