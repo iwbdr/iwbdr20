@@ -59,7 +59,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 ### Important Dates
 
-* Paper Submission: October 23, 2020
+* Paper Submission: ~~October 23~~ October 25, 2020
 * Paper Acceptance Notification: November 9, 2020
 * Camera-ready Deadline: November 20, 2020
 * Workshop: December 10, 2020
