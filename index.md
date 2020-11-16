@@ -101,19 +101,19 @@ Jiannan Tian, _Washington State University_
 
 ### Thursday, December 10, 2020
 
-- **09:00 - 09:10**: IWBDR – Welcome and Introduction
-- **09:10 - 09:55**: Keynote Speech (TBD)
-- **09:55 - 10:20**: SDRBench: Scientific Data Reduction Benchmark for Lossy Compressors
-- **10:20 - 10:45**: Assessing Differences in Large Spatio-temporal Climate Datasets with a New Python package
-- **10:45 - 11:10**: Accelerating Text Mining Using a Domain-Specific Stop Word List
-- **11:10 - 11:35**: LCFI: A Fault Injection Tool for Studying Lossy Compression Error Propagation in HPC Programs
-- **11:35 - 11:50**: A Middleware Approach to Leverage Distributed Data Deduplication Capability on HPC and Cloud Storage Systems (short paper)
-- **11:50 - 12:30**: Break
-- **12:30 - 12:55**: Interpretable Visualization and Higher-Order Dimension Reduction for ECoG Data
-- **12:55 - 13:20**: Efficient Data Management in Neutron Scattering Data Reduction Workflows at ORNL
-- **13:20 - 13:45**: Topology Preserving Data Reduction for Computing Persistent Homology
-- **13:45 - 14:10**: Combining Spatial and Temporal Properties for Improvements in Data Reduction
-- **14:10 - 14:35**: A Fast, Scalable, Universal Approach For Distributed Data Reductions
-- **14:35 - 14:40**: Closing Remarks
+- **09:00am - 09:10am**: IWBDR – Welcome and Introduction
+- **09:10am - 09:55am**: Keynote Speech (TBD)
+- **09:55am - 10:20am**: SDRBench: Scientific Data Reduction Benchmark for Lossy Compressors
+- **10:20am - 10:45am**: Assessing Differences in Large Spatio-temporal Climate Datasets with a New Python package
+- **10:45am - 11:10am**: Accelerating Text Mining Using a Domain-Specific Stop Word List
+- **11:10am - 11:35am**: LCFI: A Fault Injection Tool for Studying Lossy Compression Error Propagation in HPC Programs
+- **11:35am - 11:50am**: A Middleware Approach to Leverage Distributed Data Deduplication Capability on HPC and Cloud Storage Systems (short paper)
+- **11:50am - 12:30pm**: Lunch Break
+- **12:30pm - 12:55pm**: Interpretable Visualization and Higher-Order Dimension Reduction for ECoG Data
+- **12:55pm - 01:20pm**: Efficient Data Management in Neutron Scattering Data Reduction Workflows at ORNL
+- **01:20pm - 01:45pm**: Topology Preserving Data Reduction for Computing Persistent Homology
+- **01:45pm - 02:10pm**: Combining Spatial and Temporal Properties for Improvements in Data Reduction
+- **02:10pm - 02:35pm**: A Fast, Scalable, Universal Approach For Distributed Data Reductions
+- **02:35pm - 02:40pm**: Closing Remarks
 
 All times above are in Eastern Time.
