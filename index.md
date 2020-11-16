@@ -103,9 +103,9 @@ Jiannan Tian, _Washington State University_
 
 - **09:00 - 09:10**: IWBDR – Welcome and Introduction
 - **09:10 - 09:55**: Keynote Speech (TBD)
-- **09:55 - 10:20**: Accelerating Text Mining Using a Domain-Specific Stop Word List
-- **10:20 - 10:45**: SDRBench: Scientific Data Reduction Benchmark for Lossy Compressors
-- **10:45 - 11:10**: Assessing Differences in Large Spatio-temporal Climate Datasets with a New Python package
+- **09:55 - 10:20**: SDRBench: Scientific Data Reduction Benchmark for Lossy Compressors
+- **10:20 - 10:45**: Assessing Differences in Large Spatio-temporal Climate Datasets with a New Python package
+- **10:45 - 11:10**: Accelerating Text Mining Using a Domain-Specific Stop Word List
 - **11:10 - 11:35**: LCFI: A Fault Injection Tool for Studying Lossy Compression Error Propagation in HPC Programs
 - **11:35 - 11:50**: A Middleware Approach to Leverage Distributed Data Deduplication Capability on HPC and Cloud Storage Systems (short paper)
 - **11:50 - 12:30**: Break
