@@ -102,7 +102,7 @@ Jiannan Tian, _Washington State University_
 ### Thursday, December 10, 2020
 
 - **09:00am - 09:10am**: IWBDR – Welcome and Introduction
-- **09:10am - 09:55am**: Keynote Speech (TBD)
+- **09:10am - 09:55am**: Keynote Speech by Dr. Bill Spotz (Program Manager, DOE ASCR)
 - **09:55am - 10:20am**: SDRBench: Scientific Data Reduction Benchmark for Lossy Compressors
 - **10:20am - 10:45am**: Assessing Differences in Large Spatio-temporal Climate Datasets with a New Python package
 - **10:45am - 11:10am**: Accelerating Text Mining Using a Domain-Specific Stop Word List
