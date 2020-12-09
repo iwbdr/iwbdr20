@@ -117,3 +117,7 @@ Jiannan Tian, _Washington State University_
 - **14:35-14:40**: Closing Remarks
 
 All times above are in Eastern Time.
+
+# Participation
+
+Please register at [IEEE BigData 2020](https://bigdataieee.org/BigData2020/Registration.html) and attend the workshop via [Underline](https://underline.io/events/56/sessions?eventSessionId=1547).
