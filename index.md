@@ -75,7 +75,7 @@ All papers accepted for this workshop will be published in the Workshop Proceedi
 
 Jiannan Tian, _Washington State University_
 
-### Planning Program Committee
+### Program Committee
 
 * Allison Baker, _National Center for Atmospheric Research_
 * Mehmet Belviranli, _Colorado School of Mines_
@@ -97,7 +97,7 @@ Jiannan Tian, _Washington State University_
 * Wen Xia, _Harbin Institute of Technology, Shenzhen_
 
 
-# Program Schedule (tenative)
+# Program Schedule
 
 ### Thursday, December 10, 2020
 
