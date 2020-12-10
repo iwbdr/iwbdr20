@@ -113,7 +113,7 @@ Jiannan Tian, _Washington State University_
 - **12:55-13:20**: Efficient Data Management in Neutron Scattering Data Reduction Workflows at ORNL
 - **13:20-13:45**: Topology Preserving Data Reduction for Computing Persistent Homology
 - **13:45-14:10**: Combining Spatial and Temporal Properties for Improvements in Data Reduction
-- **14:10-14:35**: A Fast, Scalable, Universal Approach For Distributed Data Reductions
+- **14:10-14:35**: A Fast, Scalable, Universal Approach For Distributed Data Aggregations
 - **14:35-14:40**: Closing Remarks
 
 All times above are in Eastern Time.
